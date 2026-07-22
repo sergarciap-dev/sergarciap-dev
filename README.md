@@ -40,21 +40,14 @@
 
 ---
 
-## 📊 Mis Estadísticas en GitHub :
+## 📊 GitHub 🥷
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sergarciap-dev&show_icons=true&theme=cobalt&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=sergarciap-dev&theme=cobalt&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergarciap-dev&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergarciap-dev&theme=cobalt&hide_border=true&layout=compact" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergarciap-dev&theme=react-dark&hide_border=true" width="90%" alt="Activity Graph" />
 </p>
 
 ---
