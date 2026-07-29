@@ -18,7 +18,7 @@
 ## 🌐 Conéctate conmigo :
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sergio-garcía-puente/" target="_blank">
+  <a href="https://www.linkedin.com/in/sergiogarcia-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sergiogpuente88@gmail.com" target="_blank">
