@@ -1,7 +1,7 @@
 # Hola 👋 Soy Sergio García Puente | sergarciap-dev
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="15px" style="object-fit: cover;" alt="Cyber Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=12&section=header" width="100%" alt="Header Line" />
 </p>
 
 
